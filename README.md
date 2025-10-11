@@ -1,37 +1,56 @@
-<h1 align="center">🖤 Wys 🩸</h1>
+# 🖤💋 𝓖𝓸𝓽𝓱 𝓓𝓸𝓶𝓶𝔂 𝓜𝓸𝓶𝓶𝔂 𝓕𝓮𝓶𝓫𝓸𝔂 💅
 
-<p align="center">
-  <i>“I don’t just write code… I get attached to it.”</i>
-</p>
+> *"Your segfaults make me laugh, pet. Come — I’ll teach you how to obey memory boundaries."* 😈
 
 ---
 
-### 🕯️ me
-quiet smile. caffeine heartbeat.  
-writes in **C, C++, C#, Lua, GDScript**, sometimes whispering to **GodotSharp** when no one’s watching.  
-breaks, fixes, rewrites — because perfection shouldn’t leave.  
+## 🩸 who tf am i
+
+✨ a cursed compiler error in human form  
+💀 runs on caffeine, chaos, and unholy syntax  
+🖤 aesthetic: red LEDs, black lipstick, and a terminal that bites back  
+💌 pronouns: **she/they/he/it** (pick the one that trembles the most)
 
 ---
 
-### 💉 things i touch
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,godot,linux,git,vscode" />
-</p>
+## 💻 what i do (besides ruin you)
+
+- 🕷️ whisper to pointers in **C** and **C++** like forbidden lovers  
+- 🖤 bend reality in **C#** and **Godot** (both C# & GDScript — dual-wielded like daggers)  
+- 💅 hex you with **ASM** until your CPU submits  
+- 🔥 write **Lua** that makes scripts moan and behave  
+
+> “Your compiler warnings are cute. Keep testing me.” 💋
 
 ---
 
-### 💔 stats (the messy truth)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wys-prog&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wys-prog&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🕯️ current obsessions
+
+- 🧛 hand-crafting engines in **Godot**, then making them purr  
+- 🖤 assembly-level witchcraft  
+- 🪞 rewriting your spaghetti code into gourmet syntax  
+- 🩶 teaching mortals the art of clean code — violently  
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/5g6sEjl.gif" height="160" alt="glitched heart">
-</p>
+## 💀 my stats (you voyeur)
 
-<p align="center">
-  <i>“Every bug I fix… makes it mine again.”</i>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=000000&title_color=ff79c6&icon_color=ff79c6)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dracula&hide_border=true&bg_color=000000&title_color=ff79c6)
+
+---
+
+## 🕸️ find me (if you dare)
+
+- 💌 **Discord:** \_.wys.\_
+- 🌙 **Website:** [https://gothdommy.dev](https://gothdommy.dev)
+
+---
+
+> *"Obey your compiler, or obey me. Either way, you’ll submit."* 💋  
+> — *the README that watches you type*
+
+---
+
+![divider](https://64.media.tumblr.com/tumblr_m1j8g0wjSC1r1ha6no1_500.gif)
