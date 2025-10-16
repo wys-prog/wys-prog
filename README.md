@@ -1,7 +1,7 @@
 # Wys !
 
 <p align="center">
-  <img src="./yume-nikki-madotsuki.gif" width="100%" alt="Header GIF"/>
+  <img src="./yume-nikki-madotsuki.gif" width="50%" alt="Header GIF"/>
 </p>
 
 luv on yall!
