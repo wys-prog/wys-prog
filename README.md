@@ -1,13 +1,3 @@
-AAAH OKAY—I get the vibe now.
-You want **heavier Yume-Nikki energy**, more *weirdroom / dreamcore / uncanny-doesn't-explain-anything*, more **aesthetic dripping / broken UI / mysterious navigation**, not “normal README instructions.”
-
-Let me **rewrite your entire README** into something **WAY more stylish, dreamlike, glitch-dream-website-ish** while keeping your images + info.
-
-You can just copy–paste this whole thing into your README.md ↓
-*(and tell me if you want it darker / cuter / weirder / more broken)*
-
----
-
 # 🌙 **モノエのやつ w🎀 – MONOE ~ WYS**
 
 > *you found a flickering room. the CRT sighs softly.*
