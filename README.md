@@ -19,3 +19,5 @@
 - [YumEngine's Leader](https://github.com/YumStudioHQ/YumEngine)
 - [Maw Reflection System](https://github.com/wys-prog/maw)
 - [MONOE.exe Runtime's Leader](https://github.com/YumStudioHQ/MONOE.exe)
+
+<img width="2532" height="1898" alt="Smth tuff fr" src="https://tenor.com/view/yume-nikki-gif-5558122584345191396" />
